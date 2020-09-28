@@ -1,6 +1,6 @@
 ## LyricsSearch App
 
-The Web APP IS SERVED AT THE BELOW URL :
+The Web app is served on the following  URL :
 https://kev6070.github.io/Javascript-lyrics-App/
 
 Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh) API
